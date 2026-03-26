@@ -36,4 +36,4 @@ A console-based task manager for organizing personal tasks with statuses, priori
 - Git & GitHub
 
 ## Author
-[Your Name] – [GitHub Profile](https://github.com/your-username)
+[Alexander] – [GitHub Profile](https://github.com/Alexandershurikhere)
